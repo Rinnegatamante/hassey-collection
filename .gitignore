@@ -1,0 +1,6 @@
+build/*
+*.sfo
+*.bin
+*.vpk
+*.elf
+*.o
