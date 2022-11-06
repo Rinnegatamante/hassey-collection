@@ -16,6 +16,7 @@ By doing so, it's basically as if we emulate a minimalist Android environment in
 ## Known Issues
 
 - Galcon 2 has issues with online at the moment (game can connect to servers but updates aren't properly received) so can be played solely offline (Practice mode).
+- Galcon 2 menus can be quite laggy but in game framerate is solid.
 
 ## Setup Instructions (For End Users)
 
