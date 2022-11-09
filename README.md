@@ -37,7 +37,7 @@ In order to install BREAKFINITY, just follow the same instructions but, when in 
 - **Optional**: Install [PSVshell](https://github.com/Electry/PSVshell/releases) to overclock your device to 500Mhz.
 - Install `libshacccg.suprx`, if you don't have it already, by running [this homebrew](https://vitadb.rinnegatamante.it/#/info/997).
 - Obtain your copy of *Galcon 2: Galactic Conquest* legally for Android in form of an `.apk` file. [You can get all the required files directly from your phone](https://stackoverflow.com/questions/11012976/how-do-i-get-the-apk-of-an-installed-app-without-root-access) or by using an apk extractor you can find in the play store. The apk can be extracted with whatever Zip extractor you prefer (eg: WinZip, WinRar, etc...) since apk is basically a zip file. You can rename `.apk` to `.zip` to open them with your default zip extractor.
-- Open the apk with your zip explorer and extract the files `limain.so` from the `lib/armeabi-v7a` folder to `ux0:data/hassey/game1`.
+- Open the apk with your zip explorer and extract the files `libmain.so` from the `lib/armeabi-v7a` folder to `ux0:data/hassey/game1`.
 - Extract the `assets` folder inside `ux0:data/hassey/game1`.
 
 ## Build Instructions (For Developers)
